@@ -70,3 +70,6 @@ Otherwise, we will not merge your pull requests.
 | ckbcommunity.bit     | https://ckb.bihu.com/    |  Reserved for nervos Community.|
 | nervosfans.bit     | https://ckb.bihu.com/    |  Reserved for nervos Community.|
 | ckbbar.bit     | https://ckb.bihu.com/     |  币吧，the CKB Bar|
+| BitKeep.bit     | https://bitkeep.org/    |  A digital asset wallet that beginners can master in one minute.|
+| BK.bit     |  https://bitkeep.org/    |  A digital asset wallet that beginners can master in one minute.|
+| BKB.bit     |  https://bitkeep.org/    |  A digital asset wallet that beginners can master in one minute.|
